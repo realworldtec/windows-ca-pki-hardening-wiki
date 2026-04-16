@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+.amex/
+.bank/
+.banking/
+
+# VS Code / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local working folders
+_work_*/
+tmp/
+temp/
+
+# Generated outputs
+*.xlsx
+*.log
+
+# Local inventory / snapshots
+ParsersDirContent.csv
+project_tree.txt
